@@ -1,13 +1,13 @@
-# Nexus
+# Nexus Shop
 
 ## รายละเอียดโปรเจค
 
-Nexus เป็นเว็บไซต์ที่พัฒนาด้วย Django Framework
+NexusShop เป็นเว็บไซต์ที่พัฒนาด้วย Django Framework
 มีวัตถุประสงค์เพื่อ ระบบจัดการข้อมูล / ระบบแสดงสินค้า 
 
 ---
 
-## ฟีเจอร์ของระบบ 
+## ฟีเจอร์ของระบบ (Features)
 
 *  จัดการข้อมูล (เพิ่ม / แก้ไข / ลบ)
 *  แสดงข้อมูลบนหน้าเว็บ
@@ -26,7 +26,7 @@ Nexus เป็นเว็บไซต์ที่พัฒนาด้วย D
 
 ## วิธีติดตั้ง 
 
-```
+```bash
 # Clone โปรเจค
 git clone https://github.com/droply2550/NexusFix.git
 (https://github.com/droply2550/NexusFix.git)
@@ -39,7 +39,6 @@ python -m venv venv
 
 # เปิดใช้งาน (Windows)
 venv\Scripts\activate
-
 
 pip install Pillow
 pip freeze > requirements.txt
@@ -58,16 +57,24 @@ python manage.py createsuperuser
 python manage.py runserver
 
 เข้าใช้งานได้ที่: http://127.0.0.1:8000/
+
+admin
+เข้าใช้งานได้ที่: http://127.0.0.1:8000/admin/
+User : nexusadmin
+Pass : nexusshop1
+
 ```
 ---
 
 ## ตัวอย่างหน้าเว็บ
 
-![home](Nexus/cardshop/static/images/home.png)
-![product](Nexus/cardshop/static/images/product.png)
-![contact](Nexus/cardshop/static/images/contact.png)
-![about](Nexus/cardshop/static/images/about.png)
-![cart](Nexus/cardshop/static/images/cart.png)
+(ใส่รูปแคปหน้าจอ เช่น)
+
+![home](NexusFix-main/Nexus/cardshop/static/images/home.png)
+![product](NexusFix-main/Nexus/cardshop/static/images/product.png)
+![contact](NexusFix-main/Nexus/cardshop/static/images/contact.png)
+![about](NexusFix-main/Nexus/cardshop/static/images/about.png)
+![cart](NexusFix-main/Nexus/cardshop/static/images/cart.png)
 
 ---
 
