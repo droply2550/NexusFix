@@ -65,11 +65,11 @@ python manage.py runserver
 
 (ใส่รูปแคปหน้าจอ เช่น)
 
-![home](cardshop\static\images\home.png)
-![product](cardshop\static\images\product.png)
-![contact](cardshop\static\images\contact.png)
-![about](cardshop\static\images\about.png)
-![cart](cardshop\static\images\cart.png)
+![home](Nexus\cardshop\static\images\home.png)
+![product](Nexus\cardshop\static\images\product.png)
+![contact](Nexus\cardshop\static\images\contact.png)
+![about](Nexus\cardshop\static\images\about.png)
+![cart](Nexus\cardshop\static\images\cart.png)
 
 ---
 
