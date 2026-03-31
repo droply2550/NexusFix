@@ -70,11 +70,11 @@ Pass : nexusshop1
 
 (ใส่รูปแคปหน้าจอ เช่น)
 
-![home](NexusFix-main/Nexus/cardshop/static/images/home.png)
-![product](NexusFix-main/Nexus/cardshop/static/images/product.png)
-![contact](NexusFix-main/Nexus/cardshop/static/images/contact.png)
-![about](NexusFix-main/Nexus/cardshop/static/images/about.png)
-![cart](NexusFix-main/Nexus/cardshop/static/images/cart.png)
+![home](Nexus/cardshop/static/images/home.png)
+![product](Nexus/cardshop/static/images/product.png)
+![contact](Nexus/cardshop/static/images/contact.png)
+![about](Nexus/cardshop/static/images/about.png)
+![about](Nexus/cardshop/static/images/cart.png)
 
 ---
 
