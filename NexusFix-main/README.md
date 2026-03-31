@@ -41,7 +41,8 @@ python -m venv venv
 # เปิดใช้งาน (Windows)
 venv\Scripts\activate
 
-# ติดตั้ง dependencies
+
+pip install Pillow
 pip freeze > requirements.txt
 pip install -r requirements.txt
 
@@ -63,13 +64,11 @@ python manage.py runserver
 
 ## ตัวอย่างหน้าเว็บ
 
-(ใส่รูปแคปหน้าจอ เช่น)
-
-![home](Nexus\cardshop\static\images\home.png)
-![product](Nexus\cardshop\static\images\product.png)
-![contact](Nexus\cardshop\static\images\contact.png)
-![about](Nexus\cardshop\static\images\about.png)
-![cart](Nexus\cardshop\static\images\cart.png)
+![home](Nexus/cardshop/static/images/home.png)
+![product](Nexus/cardshop/static/images/product.png)
+![contact](Nexus/cardshop/static/images/contact.png)
+![about](Nexus/cardshop/static/images/about.png)
+![cart](Nexus/cardshop/static/images/cart.png)
 
 ---
 
